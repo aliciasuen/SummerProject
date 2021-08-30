@@ -1,0 +1,276 @@
+Loading anaconda3/personal
+  Loading requirement: fix_unwritable_tmp fix_setxattr
+Reference category: 0
+Other categorie(s): 1
+Setting levels: control = 0, case = 1
+Setting direction: controls > cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Warning messages:
+1: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+2: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+3: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+4: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+5: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+6: glm.fit: fitted probabilities numerically 0 or 1 occurred 
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+There were 25 warnings (use warnings() to see them)
